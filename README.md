@@ -4,18 +4,6 @@
 
 This repository contains three Python scripts designed for various data processing tasks including web scraping, data cleaning, and transformation. Each script performs specific operations on educational data from the Ministry of Education's website.
 
-## Repository Structure
-
-
-Factly_assignment/
-│
-├── Scrape_files.py
-├── Cleaning_14_15.py
-├── Cleaning_15_16.py
-├── README.md
-└── data/
-    └── AISHE2014-15.xlsx
-    └── AISHE2015-16.xlsx
 
 
 ## Prerequisites
@@ -41,10 +29,6 @@ pip install requests beautifulsoup4 html5lib pandas openpyxl
    git clone https://github.com/yourusername/Factly_assignment.git
    cd Factly_assignment
    
-
-2. **Ensure Data Files are Present:**
-
-   Place the `AISHE2014-15.xlsx` and `AISHE2015-16.xlsx` files in the `data/` directory.
 
 ## Script 1: Scrape_files
 
