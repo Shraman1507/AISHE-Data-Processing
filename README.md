@@ -27,6 +27,7 @@ pip install requests beautifulsoup4 html5lib pandas openpyxl
 
 
    git clone https://github.com/yourusername/Factly_assignment.git
+   
    cd Factly_assignment
    
 
@@ -48,6 +49,7 @@ This script fetches PDF and Excel files from the Ministry of Education's website
    
    python Scrape_files.py
 
+## Enter the download location accordingly in "output_dir"
 
 ### Functionality
 
