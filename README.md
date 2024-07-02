@@ -95,7 +95,7 @@ This script processes an Excel file (`AISHE2015-16.xlsx`). It reads data from th
 - **Save Processed Data:**
    Add additional columns, fill empty cells with `np.nan`, and save the processed DataFrame to a new Excel file (`AISHE2015_16_processed.xlsx`).
 
-## Script 3: Cleaning_14_!5
+## Script 3: Cleaning_14_15
 
 ### Description
 
@@ -106,7 +106,7 @@ This script processes an Excel file (`AISHE2014-15.xlsx`). It reads data from th
 1. **Run the Script:**
 
    
-   python Process_AISHE2014_15.py
+   python Cleaning14_15.py
    
 ### Reminder:
 - Enter the file location of AISHE2014-15 excel sheet accordingly in "pd.read_excel"
