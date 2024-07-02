@@ -106,7 +106,7 @@ This script processes an Excel file (`AISHE2014-15.xlsx`). It reads data from th
 1. **Run the Script:**
 
    
-   python Cleaning14_15.py
+   python Cleaning_14_15.py
    
 ### Reminder:
 - Enter the file location of AISHE2014-15 excel sheet accordingly in "pd.read_excel"
