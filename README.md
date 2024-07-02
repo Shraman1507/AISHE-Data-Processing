@@ -26,7 +26,7 @@ pip install requests beautifulsoup4 html5lib pandas openpyxl
 1. **Clone the Repository:**
 
 
-   git clone https://github.com/yourusername/AISHE-Data-Processingt.git
+   git clone https://github.com/Shraman1507/AISHE-Data-Processingt.git
    
    cd AISHE-Data-Processing
    
