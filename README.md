@@ -26,9 +26,9 @@ pip install requests beautifulsoup4 html5lib pandas openpyxl
 1. **Clone the Repository:**
 
 
-   git clone https://github.com/yourusername/Factly_assignment.git
+   git clone https://github.com/yourusername/AISHE-Data-Processingt.git
    
-   cd Factly_assignment
+   cd AISHE-Data-Processing
    
 
 ## Script 1: Scrape_files
@@ -49,7 +49,8 @@ This script fetches PDF and Excel files from the Ministry of Education's website
    
    python Scrape_files.py
 
-## Enter the download location accordingly in "output_dir"
+### Reminder
+-Enter the download location accordingly in "output_dir"
 
 ### Functionality
 
@@ -77,7 +78,7 @@ This script processes an Excel file (`AISHE2015-16.xlsx`). It reads data from th
    
 
 
-### Remainder:
+### Reminder:
 - Enter the file location of AISHE2014-15 excel sheet accordingly in "pd.read_excel"
   
 ### Functionality
@@ -107,7 +108,7 @@ This script processes an Excel file (`AISHE2014-15.xlsx`). It reads data from th
    
    python Process_AISHE2014_15.py
    
-### Remainder:
+### Reminder:
 - Enter the file location of AISHE2014-15 excel sheet accordingly in "pd.read_excel"
 
 ### Functionality
